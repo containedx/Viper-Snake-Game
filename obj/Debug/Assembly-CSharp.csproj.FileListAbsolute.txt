@@ -68,3 +68,5 @@ C:\MY PROGRAMMING PROJECTS\unity\Viper\obj\Debug\Assembly-CSharp.csproj.CoreComp
 C:\MY PROGRAMMING PROJECTS\unity\Viper\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\MY PROGRAMMING PROJECTS\unity\Viper\obj\Debug\Assembly-CSharp.dll
 C:\MY PROGRAMMING PROJECTS\unity\Viper\obj\Debug\Assembly-CSharp.pdb
+C:\MY PROGRAMMING PROJECTS\unity\Viper\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+C:\MY PROGRAMMING PROJECTS\unity\Viper\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll

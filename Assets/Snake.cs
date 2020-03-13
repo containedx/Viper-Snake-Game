@@ -38,7 +38,7 @@ public class Snake : MonoBehaviour {
 	void Update () {
 
         // update score
-        Score.GetComponent<Text>().text = "" + score; 
+        Score.GetComponent<TMPro.TextMeshProUGUI>().text = "" + score; 
 
         // on key press change direction 
 
@@ -116,7 +116,7 @@ public class Snake : MonoBehaviour {
         else
         {
             // snake dead == restart game
-            SceneManager.LoadScene("level0");
+            SceneManager.LoadScene("gameover");
             score = 0; 
         }
     }
