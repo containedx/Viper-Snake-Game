@@ -107,7 +107,7 @@ public class Snake : MonoBehaviour {
 
     void OnTriggerEnter2D( Collider2D coll)
     {
-        if ( coll.name.StartsWith("ole"))
+        if ( coll.name.StartsWith("pizza"))
         {
             // eating
             ate = true;
